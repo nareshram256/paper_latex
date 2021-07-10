@@ -1,0 +1,15 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Related Works}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Main contributions of the paper}{section.1}% 3
+\BOOKMARK [1][-]{section.2}{Soft Lookup based False data Matching \(SLFM\) model for estimating true data from corrupted measurement data}{}% 4
+\BOOKMARK [2][-]{subsection.2.1}{Problem formulation }{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.2}{DTW- a perfect measure for time series data}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.3}{Soft Lookup False data Matching model- recall method}{section.2}% 7
+\BOOKMARK [1][-]{section.3}{proposed model \(SLFM\) flow chart}{}% 8
+\BOOKMARK [1][-]{section.4}{Results}{}% 9
+\BOOKMARK [2][-]{subsection.4.1}{Data setup and analysis}{section.4}% 10
+\BOOKMARK [2][-]{subsection.4.2}{Testing results and discussions}{section.4}% 11
+\BOOKMARK [1][-]{section.5}{CONCLUSION}{}% 12
+\BOOKMARK [1][-]{section.6}{ACKNOWLEDGMENT}{}% 13
+\BOOKMARK [2][-]{subsection.6.1}{proof that associative memory retrieves data- Under well separated }{section.6}% 14
+\BOOKMARK [1][-]{section*.23}{References}{}% 15

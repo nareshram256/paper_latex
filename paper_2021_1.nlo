@@ -1,0 +1,12 @@
+\nomenclatureentry{P\(z^m_{j,t} \in {M^{nxd}} \  \)@[{\(z^m_{j,t} \in {M^{nxd}} \  \)}]\begingroup \ \ \ Meter(True) data\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{P\(z^s_{j,t} \in {S^{nxd}} \  \)@[{\(z^s_{j,t} \in {S^{nxd}} \  \)}]\begingroup \ \ \    Measurement(SCADA) data\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{P\(z^{sc}_{j,t} \in {C^{kxd}} \  \)@[{\(z^{sc}_{j,t} \in {C^{kxd}} \  \)}]\begingroup \ \ \ Corrupted Measurement data\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{P\({D_S} \)@[{\({D_S} \)}]\begingroup \ \ \ Database of Measurement data\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{P\({D_M} \)@[{\({D_M} \)}]\begingroup \ \ \ Database of Meter data\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{P\(A,B \dots N \ \in P_g\)@[{\(A,B \dots N \ \in P_g\)}]\begingroup \ \ \ PoC points of Grid-Stae X\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{P\(Ax,Bx \dots Nx \ \in P_x\)@[{\(Ax,Bx \dots Nx \ \in P_x\)}]\begingroup \ \ \ P0C points of State X-Grid\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{P\(\phi \colon D_S\mapsto D_M\)@[{\(\phi \colon D_S\mapsto D_M\)}]\begingroup \ \ \ Mapping function\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{N\(\mathbb{R}\)@[{\(\mathbb{R}\)}]\begingroup \ \ \ Real Numbers\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{O\(PoC\)@[{\(PoC\)}]\begingroup \ \ \ Point of Connection\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{O\(GAN\)@[{\(GAN\)}]\begingroup \ \ \ Generative Adversarial Network\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{O\(LSTM\)@[{\(LSTM\)}]\begingroup \ \ \ ,Long Short Term Memory\nomeqref {0}|nompageref}{1}
